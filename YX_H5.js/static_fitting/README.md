@@ -26,3 +26,8 @@ npm run serve
 yarn build
 npm run serve
 ```
+
+### proxy修改
+```
+在vue.config.js文件devServer对象下proxy
+```
