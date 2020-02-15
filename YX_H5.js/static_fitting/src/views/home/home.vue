@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="bick" src="../assets/home/bick.webp">
+    <img alt="bick" src="../../assets/home/bick.webp">
   </div>
 </template>
 
